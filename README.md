@@ -2,7 +2,7 @@
 DISCLAIMER: 
 
 
-ALOT OF THE IDEA AND CODEBASE WAS GOTTEN FROM [https://github.com/james-priest](James Priest)
+ALOT OF THE IDEA AND CODEBASE WAS GOTTEN FROM [https://github.com/james-priest](James_Priest)
 
  
 AND IT WASN'T SUBMITTED FOR REVIEW AS AN UDACITY PROJECT
