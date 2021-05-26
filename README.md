@@ -1,5 +1,6 @@
 # MYREADS APP
-DISCLAIMER: ALOT OF THE IDEA AND CODEBASE WAS GOTTEN FROM JAMES PRIEST AND IT WASN'T SUBMITTED
+DISCLAIMER: 
+ALOT OF THE IDEA AND CODEBASE WAS GOTTEN FROM JAMES PRIEST AND IT WASN'T SUBMITTED FOR REVIEW AS AN UDACITY PROJECT
 THIS IS AN IMPLEMENTATION USING THE ```CREATE-APP LODASH-DEBOUNCE```
 This is the first Project for the Udacity React Nano-degree Program
 The idea is to build an app based on the concepts learned that allows you to move books from one category of choice to another
