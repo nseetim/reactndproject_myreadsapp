@@ -1,30 +1,21 @@
 # MYREADS APP
-DISCLAIMER: 
+### DISCLAIMER: ALOT OF THE IDEA AND CODEBASE WAS GOTTEN FROM [James Priest](https://github.com/james-priest)
 
+__*AND IT WASN'T SUBMITTED FOR REVIEW AS AN UDACITY PROJECT*__
 
-ALOT OF THE IDEA AND CODEBASE WAS GOTTEN FROM [https://github.com/james-priest](James_Priest)
-
- 
-AND IT WASN'T SUBMITTED FOR REVIEW AS AN UDACITY PROJECT
-
-
-
-THIS IS AN IMPLEMENTATION USING THE ```CREATE-APP LODASH-DEBOUNCE```
-
-
-
+__THIS IS AN IMPLEMENTATION USING THE `<CREATE-APP LODASH-DEBOUNCE>`__
 
 This is the first Project for the Udacity React Nano-degree Program
 The idea is to build an app based on the concepts learned that allows you to move books from one category of choice to another
 Th Categories currently are:
 
-- Currently Reading
-- Want to Read
-- Read
+* Currently Reading
+* Want to Read
+* Read
 
 It also contains a search functionality which can be seen using the floating button on the page 
 or visiting the url:
-- [http://localhost:3000](http://localhost:3000)/search
+- [http://localhost:3000/search](http://localhost:3000/search)
 
 ## Installation
 
